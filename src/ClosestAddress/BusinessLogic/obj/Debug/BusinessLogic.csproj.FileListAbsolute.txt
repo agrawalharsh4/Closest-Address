@@ -1,0 +1,5 @@
+E:\2k19\ClosestAddress\src\ClosestAddress\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\2k19\ClosestAddress\src\ClosestAddress\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\2k19\ClosestAddress\src\ClosestAddress\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\BusinessLogic\obj\Debug\BusinessLogic.pdb

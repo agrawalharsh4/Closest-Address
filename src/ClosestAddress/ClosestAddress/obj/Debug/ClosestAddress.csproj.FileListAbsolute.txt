@@ -1,0 +1,12 @@
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\ClosestAddress.dll.config
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\ClosestAddress.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\ClosestAddress.pdb
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\BusinessLogic.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\BusinessLogic.pdb
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\obj\Debug\ClosestAddress.csprojResolveAssemblyReference.cache
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\obj\Debug\ClosestAddress.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\obj\Debug\ClosestAddress.pdb
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\Respositories.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\Respositories.pdb
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\GoogleMapApiIntegration.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\ClosestAddress\bin\GoogleMapApiIntegration.pdb

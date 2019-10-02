@@ -1,0 +1,5 @@
+E:\2k19\ClosestAddress\src\ClosestAddress\Respositories\bin\Debug\Respositories.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\Respositories\bin\Debug\Respositories.pdb
+E:\2k19\ClosestAddress\src\ClosestAddress\Respositories\obj\Debug\Respositories.csprojResolveAssemblyReference.cache
+E:\2k19\ClosestAddress\src\ClosestAddress\Respositories\obj\Debug\Respositories.dll
+E:\2k19\ClosestAddress\src\ClosestAddress\Respositories\obj\Debug\Respositories.pdb
